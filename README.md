@@ -1,6 +1,6 @@
 # Space Monkey Demo
 
-This is still a work in progress repo. Mainly meant to share as a AI Tinkeres demo.
+This is still a work in progress repo. Mainly meant to share as an AI Tinkeres demo.
 
 ## Contents
 
